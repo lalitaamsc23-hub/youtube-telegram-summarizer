@@ -222,9 +222,3 @@ Job Assessment Project – AI/NLP Engineering
 
 ---
 
-If you want, I can also:
-
-* Add **badges** (Python, Telegram, LLM)
-* Write a **1-paragraph recruiter pitch** for your resume
-* Create a **demo GIF** script
-* Add **Dockerfile + deployment guide**
