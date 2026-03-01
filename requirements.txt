@@ -1,0 +1,7 @@
+python-telegram-bot==22.6
+httpx==0.24.1
+youtube-transcript-api
+requests
+sentence-transformers
+openclaw
+deep-translator
